@@ -13,7 +13,7 @@ function App() {
     <div className="app">
       <header className="nav">
         <a href="#home" className="brand">
-          <img src="/src/assets/logo.png" alt="Dhana Laxmi Decors logo" />
+          <img src="/logo.png" alt="Dhana Laxmi Decors logo" />
         </a>
         <nav>
           <a href="#about">About</a>
@@ -119,7 +119,7 @@ function App() {
 
         <section className="showcase">
           <div className="showcase-image">
-            <img src="/src/assets/ceiling-reference.png" alt="False ceiling design reference" />
+            <img src="/ceiling-reference.png" alt="False ceiling design reference" />
           </div>
           <div className="showcase-content">
             <span className="eyebrow red">CEILING DESIGN</span>
@@ -159,7 +159,7 @@ function App() {
 
       <footer>
         <div className="footer-brand">
-          <img src="/src/assets/logo.png" alt="Dhana Laxmi Decors" />
+          <img src="/logo.png" alt="Dhana Laxmi Decors" />
           <p>False ceiling engineering, customized designs and gypsum material supply.</p>
         </div>
         <div className="footer-links">
